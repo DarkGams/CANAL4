@@ -5,19 +5,37 @@ body {
     color:white;
 }
 
-img {
-  width: 970px;
+.image1 {
+  text-align: center;
 }
 
-
-.image2{
-  width: 500px;
-  height: 250px;
+.image2 {
+  text-align: center;
 }
 
-.image3{
+.image3 {
   width: 280px;
   height: 300px;
   float: left;
   margin: 0 10px 10px 0;
+}
+
+.link {
+  text-align: center;
+}
+
+.comment {
+  text-align: center;
+}
+
+.title1 {
+  text-align: center;
+}
+
+.title2 {
+  text-align: center;
+}
+
+.title3 {
+  text-align: center;
 }
