@@ -1,0 +1,23 @@
+body {
+    font-size: 15pt;
+    background-image: url(https://i.servimg.com/u/f64/16/04/00/40/i_back10.gif);
+    background-size: 25%;
+    color:white;
+}
+
+img {
+  width: 970px;
+}
+
+
+.image2{
+  width: 500px;
+  height: 250px;
+}
+
+.image3{
+  width: 280px;
+  height: 300px;
+  float: left;
+  margin: 0 10px 10px 0;
+}
